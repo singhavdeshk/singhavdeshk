@@ -8,11 +8,13 @@ A typical software engineer with steep learning and analytical capabiities. I wa
 
 - 💻 I’m currently a backend developer with a focus on cloud, distributed architecture and system design.
 
-- My primary programming language is ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+- 🐍 My primary programming language is ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
 
 - 🌱 I'm interested in learning Machine Learning, Distributed computing.
 
 - 😄 Pronouns: **He**/**Him**
+
+- ⏳ My favorite pastime [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/singhavdeshk)](https://www.hackerrank.com/profile/singhavdeshk) 
 
 - ⚡ <a href="https://singhavdeshk.github.io/index.html"> <b>Resume</b></a>
 
@@ -21,4 +23,3 @@ A typical software engineer with steep learning and analytical capabiities. I wa
 [![Linkedin Badge](https://img.shields.io/badge/-singhavdesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/singhavdesh/)](https://www.linkedin.com/in/singhavdesh/)
 [![Gmail Badge](https://img.shields.io/badge/-singh.avdesh.k@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:singh.avdesh.k@gmail.com)](mailto:singh.avdesh.k@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+919015459843&text=Hey!)](https://api.whatsapp.com/send?phone=+16315423307&text=Hey!)
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/singhavdeshk)](https://www.hackerrank.com/profile/singhavdeshk)
