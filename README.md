@@ -1,6 +1,6 @@
 # :man_technologist: Avdesh Kumar Singh
 
-Working as an Expert Engineer at <a href="https://www.fidelityinternational.com/"> <b>Fidelity International</b></a> in Gurugram, New Delhi, India. I have previously worked at <a href="https://www.nagarro.com/"> <b>Nagarro</b></a> and <a href="https://hsc.com"> <b>Hughes Systique</b></a>.
+Working as an Expert Engineer at <a href="https://www.fidelityinternational.com/"> <b>Fidelity International</b></a> in Gurugram, India. I have previously worked at <a href="https://www.nagarro.com/"> <b>Nagarro</b></a> and <a href="https://hsc.com"> <b>Hughes Systique</b></a>.
 
 ## About Me
 
