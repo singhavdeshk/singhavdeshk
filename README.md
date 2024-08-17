@@ -10,7 +10,7 @@ A typical software engineer with steep learning and analytical capabiities. I wa
 
 - 🐍 My primary programming language is [![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)](https://www.python.org/)
 
-- 🌱 I'm interested in learning Machine Learning, Distributed computing.
+- 🌱 I'm interested in learning System design, Machine Learning, Distributed computing.
 
 - ⏳ My favorite pastime [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/singhavdeshk)](https://www.hackerrank.com/profile/singhavdeshk)
 
