@@ -12,9 +12,9 @@ A typical software engineer with steep learning and analytical capabiities. I wa
 
 - 🌱 I'm interested in learning Machine Learning, Distributed computing.
 
-- 😄 Pronouns: **He**/**Him**
+- ⏳ My favorite pastime [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/singhavdeshk)](https://www.hackerrank.com/profile/singhavdeshk)
 
-- ⏳ My favorite pastime [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/singhavdeshk)](https://www.hackerrank.com/profile/singhavdeshk) 
+- 😄 Pronouns: **He**/**Him**
 
 - ⚡ <a href="https://singhavdeshk.github.io/index.html"> <b>Resume</b></a>
 
