@@ -8,7 +8,7 @@ A typical software engineer with steep learning and analytical capabiities. I wa
 
 - 💻 I’m currently a backend developer with a focus on cloud, distributed architecture and system design.
 
-- 🐍 My primary programming language is ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+- 🐍 My primary programming language is [![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)](https://www.python.org/)
 
 - 🌱 I'm interested in learning Machine Learning, Distributed computing.
 
